@@ -1,7 +1,7 @@
 ## Table of Contents
-* [How to start pipeline and API](#How to start pipeline and API)
-* [Unit Tests](#Unit tests)
-* [Data Analysis](#Data Analysis)
+* [How to start pipeline and API](#How-to-start-pipeline-and-API)
+* [Unit Tests](#Unit-tests)
+* [Data Analysis](#Data-Analysis)
 * [Customisation](#Customisation)
 
 ## How to start pipeline and API
