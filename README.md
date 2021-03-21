@@ -28,6 +28,7 @@ curl --request GET 'http://0.0.0.0:5000/voucher' \
 ```
 
 ## Unit tests
+* Built with pytest
 * From the project's root switch to pipenv environment:
 ```
 pipenv shell
